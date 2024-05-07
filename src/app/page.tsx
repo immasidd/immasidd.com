@@ -10,7 +10,7 @@ const Page = () => {
     },
     {
       title: "ChatGPT Windows 10 Trick",
-      link: "https://beta.skinvincible.in/",
+      link: "https://twitter.com/immasiddtweets/status/1669721470006857729",
       thumbnail: "/elon.png",
     },
     {
