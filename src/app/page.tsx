@@ -4,9 +4,14 @@ const Page = () => {
   // Mock data for products
   const products = [
     {
+      title: "iMessage Concept (Satire)",
+      link: "https://twitter.com/immasiddtweets/status/1782779142104334826",
+      thumbnail: "/iMessageConcept.png",
+    },
+    {
       title: "Skinvincible AI",
       link: "https://beta.skinvincible.in",
-      thumbnail: "/image.png",
+      thumbnail: "/skinvinciblepicture.png",
     },
     {
       title: "ChatGPT Windows 10 Trick",
@@ -14,34 +19,29 @@ const Page = () => {
       thumbnail: "/elon.png",
     },
     {
-      title: "Skinvincible AI",
-      link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      title: "6to9Tech",
+      link: "https://6to9tech.com",
+      thumbnail: "/6to9tech.png",
     },
     {
-      title: "Skinvincible AI",
-      link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      title: "iOS Emoji Prediction",
+      link: "https://twitter.com/immasiddtweets/status/1779155286240202854",
+      thumbnail: "/africa.png",
     },
     {
-      title: "Skinvincible AI",
-      link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      title: "iOS Emoji Prediction",
+      link: "https://twitter.com/immasiddtweets/status/1779155286240202854",
+      thumbnail: "/africa.png",
     },
     {
-      title: "Skinvincible AI",
-      link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      title: "iOS Emoji Prediction",
+      link: "https://twitter.com/immasiddtweets/status/1779155286240202854",
+      thumbnail: "/africa.png",
     },
     {
-      title: "Skinvincible AI",
-      link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
-    },
-    {
-      title: "Skinvincible AI",
-      link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      title: "iOS Emoji Prediction",
+      link: "https://twitter.com/immasiddtweets/status/1779155286240202854",
+      thumbnail: "/africa.png",
     },
     {
       title: "Skinvincible AI",
