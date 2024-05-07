@@ -66,17 +66,17 @@ const Page = () => {
     {
       title: "Skinvincible AI",
       link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      thumbnail: "/15pro3.png",
     },
     {
       title: "Skinvincible AI",
       link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      thumbnail: "/15pro1.png",
     },
     {
       title: "Skinvincible AI",
       link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      thumbnail: "/15pro2.png",
     },
     // Add more product objects as needed
   ];
