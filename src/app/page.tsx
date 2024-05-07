@@ -9,9 +9,9 @@ const Page = () => {
       thumbnail: "/image.png",
     },
     {
-      title: "Skinvincible AI",
+      title: "ChatGPT Windows 10 Trick",
       link: "https://beta.skinvincible.in/",
-      thumbnail: "/image.png",
+      thumbnail: "/elon.png",
     },
     {
       title: "Skinvincible AI",
